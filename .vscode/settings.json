@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.enable": false,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#0888e4",
+  }
+}
